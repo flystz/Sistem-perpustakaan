@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="hapuskoleksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="info tambah koleksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perpustakaan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tambah koleksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateKoleksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
